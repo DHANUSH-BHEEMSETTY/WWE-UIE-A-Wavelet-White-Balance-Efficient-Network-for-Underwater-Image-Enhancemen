@@ -1,0 +1,12 @@
+timm
+einops
+tqdm
+numpy
+matplotlib
+Pillow
+opencv-python
+thop
+scikit-learn
+scipy
+scikit-image
+huggingface_hub

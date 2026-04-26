@@ -1,0 +1,1 @@
+[Testing UFO-120] SSIM: 0.8776, PSNR: 25.2682

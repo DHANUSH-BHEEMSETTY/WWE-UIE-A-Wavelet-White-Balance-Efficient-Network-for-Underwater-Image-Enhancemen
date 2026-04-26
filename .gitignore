@@ -1,0 +1,16 @@
+# Datasets
+UnderWaterDataset/
+dataset/
+
+# Checkpoints and models
+Checkpoints and Intermediate Files/
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
